@@ -1,3 +1,4 @@
+Python needs to be installed on the system running the program, it is not required on the server. (https://www.python.org/downloads/)
 You need 2 folders:
     filesCorrect
     filesIncorrect
