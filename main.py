@@ -16,5 +16,5 @@ for files in LIST:
     fout.close()
 
 
-sleep(30)
 print('DO NOT RUN AGAIN THE PROGRAM WORKED. CORRECT FILES ARE IN filesCorrect.')
+sleep(30)
